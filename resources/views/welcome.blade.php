@@ -176,19 +176,20 @@
 
 		<div>
 			<a target="_blank" href="https://discord.gg/yZD24y">
-				<img id="linkDiscord" class="ui medium circular image" src="logoJoin.png" class="ui tiny image"></a>
+				<img id="linkDiscord" class="ui medium circular image" src="logoJoin.png" class="ui tiny image">
+			</a>
+		</div>
+	</div>
+	<!-- fin discord -->
+	<div class="miniCut">
+	Created by Axel Bouillart and Frédéric Delon , Big thanks to Riot Games.
+		
+	</div>
 
 
-
-			</div>
-
-
-
-			<!-- fin discord -->
-
-		</body>
-		<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-		<script src="{{ mix('js/app.js') }}"></script>
-		</html>
+</body>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="{{ mix('js/app.js') }}"></script>
+</html>
 
