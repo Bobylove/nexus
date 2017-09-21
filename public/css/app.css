@@ -8,6 +8,10 @@ body {
   padding: 0;
 }
 
+#nexu {
+  display: none;
+}
+
 .presentation {
   background-image: url("/annieHex.png");
   height: 71em;
@@ -40,6 +44,18 @@ body {
 
 #colorMenu {
   background-color: white;
+}
+
+@media only screen and (max-width: 600px) {
+  #colorMenu {
+    display: none;
+    width: 5%;
+  }
+
+  #nexu {
+    display: block;
+    text-align: center;
+  }
 }
 
 #card {
@@ -219,6 +235,13 @@ body {
   100% {
     -webkit-transform: scale(1, 1);
             transform: scale(1, 1);
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  #linkDiscord {
+    max-width: 10%;
+    text-align: center;
   }
 }
 

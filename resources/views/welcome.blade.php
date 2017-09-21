@@ -16,6 +16,9 @@
 	<link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
 </head>
 <body>
+<div id="nexu">
+	<h1>salut les noob</h1>
+</div>
 	<!-- menu debut-->
 	<div id="colorMenu" class="ui top fixed  menu">
 		
@@ -182,7 +185,7 @@
 	</div>
 	<!-- fin discord -->
 	<div class="miniCut">
-	Created by Axel Bouillart and Frédéric Delon , Big thanks to Riot Games.
+		Created by Axel Bouillart and Frédéric Delon , Big thanks to Riot Games.
 		
 	</div>
 
