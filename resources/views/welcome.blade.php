@@ -19,7 +19,7 @@
 	<!-- menu debut-->
 	<div id="colorMenu" class="ui top fixed  menu">
 		
-		<a href="#page-0"><img  class="logoMenu" src="logo_server_site.png"></a>
+		<a href="#page-0"><img  class="logoMenu" src="LogoNexusReview400X400-1.png"></a>
 		
 		<a href="#page-0" id="itemsMenu" class="item js-scrollTo">Nexus Community</a>
 		
@@ -176,7 +176,7 @@
 
 		<div>
 			<a target="_blank" href="https://discord.gg/yZD24y">
-				<img id="linkDiscord" class="ui medium circular image" src="logoJoin.png" class="ui tiny image">
+				<img id="linkDiscord" class="ui medium circular image" src="LogoNexusReviewJoin400X400-1.png" class="ui tiny image">
 			</a>
 		</div>
 	</div>
