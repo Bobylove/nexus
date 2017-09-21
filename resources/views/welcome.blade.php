@@ -8,7 +8,7 @@
 	
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/semantic-ui/2.2.10/semantic.min.css">
 
-	<link rel="icon" href="logo_server_site.png">
+	<link rel="icon" href="/LogoNexusReview400X400.bmp">
 
 	<title>Nexus</title>
 	<link rel="stylesheet" href="{{ mix('css/app.css') }}">
@@ -49,13 +49,13 @@
 			<!-- Wrapper for carousel items -->
 			<div class="carousel-inner">
 				<div id="imgtaille" class="item active">
-					<img class="taille" src="/1.png" alt="First Slide">
+					<img class="taille" src="/1Review.png" alt="First Slide">
 				</div>
 				<div id="imgtaille" class="item">
-					<img class="taille" src="/2.png" alt="Second Slide">
+					<img class="taille" src="/2Review.png" alt="Second Slide">
 				</div>
 				<div id="imgtaille" class="item">
-					<img class="taille" src="/3.png" alt="Third Slide">
+					<img class="taille" src="/3Review.png" alt="Third Slide">
 				</div>
 			</div>
 
