@@ -132,7 +132,7 @@
 			<div class="four wide column">
 				<div id="carte" class="ui link card">
 					<div id="sizeCard2" class="ui left  inverted segment">
-						<img class="ui medium circular image" src="Overwatch_circle_logo.svg.png" class="ui tiny left floated image">
+						<img class="ui medium circular image" src="overwatch.png" class="ui tiny left floated image">
 						<div class="floated right text-center description">
 							<p id="textCard">
 								Un peu comme League Of Legends , nous jouons pour le fun mais il peut nous arriver de try hard , venez chercher dess mates.
