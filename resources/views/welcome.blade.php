@@ -17,15 +17,18 @@
 </head>
 <body>
 	<div id="nexu">
-		<h1>salut les noob</h1>
+		<div  class="ui top  menu">		
+			<img  class="logoMenu" src="LogoNexusReview400X400-1.png">
+			<a  id="itemsMenu" class="item">Nexus Community</a>
+		</div>
 	</div>
 	<!-- menu debut-->
 	<div id="colorMenu" class="ui top fixed  menu">
-		
+
 		<a href="#page-0"><img  class="logoMenu js-scrollTo" src="LogoNexusReview400X400-1.png"></a>
-		
+
 		<a href="#page-0" id="itemsMenu" class="item js-scrollTo">Nexus Community</a>
-		
+
 		<div class="right menu">
 			<div class="item">
 				<button id="btn1" class="ui secondary button "></button>
@@ -189,13 +192,19 @@
 	<!-- discord debut -->
 	<div id="page-3" class="discord">
 
-		<div class="ui two column centered grid">
+		<div class="ui container">
+			<div class="ui grid">
+				<div class="sixteen wide column">
+					<div class="ui two column centered grid">
 						<div id="carte" class="ui inverted card">
 							<div  class="ui link inverted segment">
 								<h2  id="titleh2" class="ui header">Discord</h2>
 							</div>
 						</div>
 					</div>
+				</div>
+			</div>
+		</div>
 
 		<div>
 			<a target="_blank" href="https://discord.gg/yZD24y">
