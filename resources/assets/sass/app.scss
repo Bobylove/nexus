@@ -17,7 +17,11 @@ body {
   background-image: url("/annieHex.png");
   height: 100%;
   width: 100%;
+  background-repeat: no-repeat;
 
+}
+.cutResp{
+  display: none;
 }
 #titleh2 {
   font-size: 45px;
@@ -95,6 +99,9 @@ body {
 }
 .bs-example {
   width: 100%;
+}
+.joinResp{
+  display: none;
 }
 
 #imgtaille img {
@@ -175,7 +182,7 @@ body {
   }
 }
 
-@media only screen and ( max-width: 600px){
+@media only screen and ( max-width: 640px){
 
 
   #colorMenu {
@@ -213,31 +220,41 @@ body {
     display: none;
   }
   .presentation {
-    margin-bottom: 80%;
-    margin-top: 5em;
-  }
-  #page-1 {
-    background-image: none;
     height: 100%;
+    margin-top: 20%;
   }
-  #page-2 {
-    background-image: none;
-    height: 100%;
-  }
-  #page-3 {
-    background-image: none;
-    height: 100%;
-  }
+  .jeux{
+      margin-top: 70%;
+   height: 100%;
+ }
+ #page-1 {
+  background-image: none;
 
-  #linkDiscord{
-    border-bottom: 0 auto;
-    margin-left: 25%;
-    width: 50%;
-    height: 50%;
-  }
-  #itemsMenu{
-    font-size: 20px;
-  }
+}
+#page-2 {
+  background-image: none;
+
+}
+#page-3 {
+  background-image: none;
+}
+
+#linkDiscord{
+  display: none;
+}
+#itemsMenu{
+  font-size: 20px;
+}
+
+.joinResp{
+  margin-top: 10%;
+  display: block;
+}
+
+.cutResp {
+  display: block;
+  height: 10%;
+}
 }
 
 

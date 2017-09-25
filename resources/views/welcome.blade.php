@@ -68,6 +68,7 @@
 		</div>
 	</div>
 
+
 	<!-- carrousel fin  -->
 	<div class="cut"></div>
 
@@ -125,6 +126,7 @@
 	</div>
 	<!-- prez fin -->
 	<div class="cut"></div>
+	<div class="cutResp"></div>
 	<!-- jeux debut -->
 	<div id="page-2" class="jeux">
 		<div class="ui container">
@@ -183,6 +185,19 @@
 							</div>
 						</div>
 					</div>
+
+					<div class="joinResp">
+						<div class="ui two column centered grid">
+							<div id="carte" class="ui link card">
+								<div id="sizeCard" class="ui link inverted segment">
+									<a target="_blank" href="https://discord.gg/yZD24y">
+										<img  class="ui medium circular image" src="LogoNexusReviewJoin400X400-1.png" class="ui tiny image">
+										</a>
+								</div>
+							</div>
+						</div>
+					</div>
+
 				</div>
 			</div>
 		</div>
@@ -214,8 +229,10 @@
 	</div>
 </div>
 <!-- fin discord -->
+
+
 <div class="miniCut">
-	Created by Axel Bouillart and Frédéric Delon , Big thanks to Riot Games.
+	Created by Axel Bouillart and Frédéric Delon .
 
 </div>
 
