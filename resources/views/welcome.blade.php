@@ -77,7 +77,7 @@
 			<div class="ui grid">
 				<div class="sixteen wide column">
 					<div class="ui two column centered grid">
-						<div id="carte" class="ui inverted card">
+						<div id="carte" class="ui inverted card cardsResp">
 							<div  class="ui link inverted segment">
 								<h2  id="titleh2" class="ui header">Presentation</h2>
 							</div>
@@ -131,55 +131,55 @@
 			<div class="ui grid">
 				<div class="sixteen wide column">
 					<div class="ui two column centered grid">
-						<div id="carte" class="ui inverted card">
+						<div id="carte" class="ui inverted card cardsResp">
 							<div  class="ui link inverted segment">
 								<h2  id="titleh2" class="ui header">Jeux</h2>
 							</div>
 						</div>
 					</div>
-					<div class="ui four stackable cards">
-						<div id="carte" class="ui link card">
-							<div id="sizeCard" class="ui link inverted segment">
-								<img class="ui medium circular image" src="https://vignette.wikia.nocookie.net/leagueoflegends/images/1/12/League_of_Legends_Icon.png/revision/latest?cb=20150402234343" class="ui tiny left floated image">
-								<div class="floated right text-center description">
-									<p id="textCard">
-										Nous jouons surtout pour le fun , mais il peut nous arriver de try hard . Venez chercher du monde pour flex , pour duoQ ou tout simplement pour une normal.
-									</p>      
-								</div>
+				</div>
+				<div class="ui four stackable cards">
+					<div id="carte" class="ui link card">
+						<div id="sizeCard" class="ui link inverted segment">
+							<img class="ui medium circular image" src="https://vignette.wikia.nocookie.net/leagueoflegends/images/1/12/League_of_Legends_Icon.png/revision/latest?cb=20150402234343" class="ui tiny left floated image">
+							<div class="floated right text-center description">
+								<p id="textCard">
+									Nous jouons surtout pour le fun , mais il peut nous arriver de try hard . Venez chercher du monde pour flex , pour duoQ ou tout simplement pour une normal.
+								</p>      
 							</div>
 						</div>
+					</div>
 
-						<div id="carte" class="ui link card">
-							<div id="sizeCard" class="ui link inverted segment">
-								<img class="ui medium circular image" src="overwatch.png" class="ui tiny left floated image">
-								<div class="floated right text-center description">
-									<p id="textCard">
-										Un peu comme League Of Legends , nous jouons pour le fun mais il peut nous arriver de try hard , venez chercher dess mates.
-									</p>      
-								</div>
+					<div id="carte" class="ui link card">
+						<div id="sizeCard" class="ui link inverted segment">
+							<img class="ui medium circular image" src="overwatch.png" class="ui tiny left floated image">
+							<div class="floated right text-center description">
+								<p id="textCard">
+									Un peu comme League Of Legends , nous jouons pour le fun mais il peut nous arriver de try hard , venez chercher dess mates.
+								</p>      
 							</div>
 						</div>
+					</div>
 
 
-						<div id="carte" class="ui link card">
-							<div id="sizeCard" class="ui link inverted segment">
-								<img class="ui medium circular image" src="d3.png" class="ui tiny left floated image">
-								<div class="floated right text-center description">
-									<p id="textCard">
-										Nous jouons occasionnellement , mais rien ne vous empêche de trouver des personnes qui sont intéressés par Diablo III 
-									</p>      
-								</div>
+					<div id="carte" class="ui link card">
+						<div id="sizeCard" class="ui link inverted segment">
+							<img class="ui medium circular image" src="d3.png" class="ui tiny left floated image">
+							<div class="floated right text-center description">
+								<p id="textCard">
+									Nous jouons occasionnellement , mais rien ne vous empêche de trouver des personnes qui sont intéressés par Diablo III 
+								</p>      
 							</div>
 						</div>
+					</div>
 
-						<div id="carte" class="ui link card">
-							<div id="sizeCard" class="ui link inverted segment">
-								<img class="ui medium circular image" src="dofus.png" class="ui tiny left floated image">
-								<div class="floated right text-center description">
-									<p id="textCard">
-										Nous jouons sur le serveur Pandore pour la plus part Venez nous rejoindre pour des AvA , des donjon, des succès 
-									</p>      
-								</div>
+					<div id="carte" class="ui link card">
+						<div id="sizeCard" class="ui link inverted segment">
+							<img class="ui medium circular image" src="dofus.png" class="ui tiny left floated image">
+							<div class="floated right text-center description">
+								<p id="textCard">
+									Nous jouons sur le serveur Pandore pour la plus part Venez nous rejoindre pour des AvA , des donjon, des succès 
+								</p>      
 							</div>
 						</div>
 					</div>
@@ -187,36 +187,37 @@
 			</div>
 		</div>
 	</div>
-	<!-- fin jeux  -->
-	<div class="cut"></div>
-	<!-- discord debut -->
-	<div id="page-3" class="discord">
+</div>
+<!-- fin jeux  -->
+<div class="cut"></div>
+<!-- discord debut -->
+<div id="page-3" class="discord">
 
-		<div class="ui container">
-			<div class="ui grid">
-				<div class="sixteen wide column">
-					<div class="ui two column centered grid">
-						<div id="carte" class="ui inverted card">
-							<div  class="ui link inverted segment">
-								<h2  id="titleh2" class="ui header">Discord</h2>
-							</div>
+	<div class="ui container">
+		<div class="ui grid">
+			<div class="sixteen wide column">
+				<div class="ui two column centered grid">
+					<div id="carte" class="ui inverted card cardsResp">
+						<div  class="ui link inverted segment">
+							<h2  id="titleh2" class="ui header">Discord</h2>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-
-		<div>
-			<a target="_blank" href="https://discord.gg/yZD24y">
-				<img id="linkDiscord" class="ui medium circular image" src="LogoNexusReviewJoin400X400-1.png" class="ui tiny image">
-			</a>
-		</div>
 	</div>
-	<!-- fin discord -->
-	<div class="miniCut">
-		Created by Axel Bouillart and Frédéric Delon , Big thanks to Riot Games.
 
+	<div>
+		<a target="_blank" href="https://discord.gg/yZD24y">
+			<img id="linkDiscord" class="ui medium circular image" src="LogoNexusReviewJoin400X400-1.png" class="ui tiny image">
+		</a>
 	</div>
+</div>
+<!-- fin discord -->
+<div class="miniCut">
+	Created by Axel Bouillart and Frédéric Delon , Big thanks to Riot Games.
+
+</div>
 
 
 </body>
